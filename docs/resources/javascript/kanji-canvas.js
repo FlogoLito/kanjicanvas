@@ -1,7 +1,6 @@
 (function (window, document) {
   'use strict';
   
-  console.log("test")
   // define KanjiCanvas as a global
   // call KanjiCanvas.init(id) to initialize a canvas as a KanjiCanvas
   // `id` must be the id attribute of the canvas.
